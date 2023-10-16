@@ -142,7 +142,7 @@ try:
           if method_video_mi == '1':
             method_for_reporting = '1091'
           elif method_video_mi == '2':
-            method_for_reporting == '1092'
+            method_for_reporting = '1092'
           elif method_video_mi == '3':
             method_for_reporting = '1093'
           else:
